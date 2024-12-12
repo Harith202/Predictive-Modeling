@@ -1,0 +1,43 @@
+---
+title: "Final"
+author: "Harith Alyuwaili"
+date: "2024-12-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Week 1:
+  1. Importance of summarizing data using statistical measures like mean, median, and standard deviation.
+  2. Visual exploration of datasets through histograms, scatter plots, and box plots to identify patterns and anomalies.
+
+# Week 2:
+  1. Techniques for identifying and handling missing data, such as imputation or dropping rows with missing values.
+  2. Exploring relationships between variables using scatterplots and correlation coefficients.
+
+# Week 3: 
+  1. Building and interpreting linear regression models, including coefficients and residual analysis.
+  2. Using R-squared and adjusted R-squared to evaluate the goodness of fit for the models.
+
+# Week 4: 
+  1. Applying logistic regression for binary classification tasks.
+  2. Evaluating model performance with confusion matrices, precision, recall, and F1-score.
+
+# Week 5: 
+  1. Implementing k-means clustering for customer segmentation.
+  2. Determining the optimal number of clusters using methods like the elbow method and silhouette scores.
+  
+# Week 6:
+  1. Building decision tree models and pruning them to improve generalization.
+  2. Using random forests for ensemble learning and analyzing feature importance in predictions.
+
+# Week 7: 
+  1. Training Generalized Linear Models (GLMs) with a Poisson distribution for count data.
+  2. Interpreting model coefficients to understand the relationship between predictors and pedestrian counts.
+
+# Week 8:
+
+  1. Preparing and cleaning data for predictive modeling tasks, including feature engineering.
+  2. Comparing performance across multiple models (linear regression, regression trees, random forests) to select the best model for prediction.
